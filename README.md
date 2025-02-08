@@ -1,4 +1,5 @@
 # FIFA World Cup Analysis: Power BI Report
+<img width="629" alt="Cover Page" src="https://github.com/user-attachments/assets/e5face88-fb01-4bb7-9924-8570892ce5ff" />
 
 This repository contains a detailed Power BI dashboard on the FIFA World Cup, offering insights into various aspects of the tournament, from attendance to team performance.
 
